@@ -196,6 +196,8 @@ def generate_fidelity_card(ticker, rating, metrics):
 <div style="display: flex; justify-content: center; margin-top: 10px;">
 <span style="font-size: 10px; color: #999;">Category</span>
 </div>
+<div style="margin-top: 25px; padding-top: 15px; border-top: 1px dashed #eee; text-align: center; font-size: 11px; color: #999; line-height: 1.5;">
+This tool is for informational purposes only and does not constitute financial advice. Always conduct your own research before making investment decisions.
 </div>
 </div>"""
     return html
