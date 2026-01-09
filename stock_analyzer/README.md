@@ -24,3 +24,6 @@ A Python-first application designed to analyze stocks and provide Buy/Hold/Avoid
 - Analysis modules: `fundamentals.py`, `valuation.py`, `technicals.py`, `risk.py`.
 - `scoring.py`: Aggregates scores.
 - `app.py`: Streamlit dashboard.
+
+
+## RUN - Stocke picker\stock_analyzer> python -m streamlit run app.py
